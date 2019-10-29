@@ -1,0 +1,1 @@
+java -cp target/KafkaJupally-1.0-SNAPSHOT-jar-with-dependencies.jar edu.nwmissouri.dis.jupally.kafka.Consumer selfObessed group1
